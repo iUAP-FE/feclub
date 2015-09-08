@@ -71,12 +71,20 @@ cat ~/ssh/id_rsa.pub
 - 在本地新建一个练习目录
 
 ```
+# 创建一个目录
 mkdir test
+# 进入所创建的目录
 cd test
+# 初始化一个git仓库
 git init
+# 为这个仓库添加一个远程地址
 git remote add origin ***
+# 新建两个测试文件
 touch .gitignore README.md
+# 把文件添加到暂存区
 git add --all
+# 把文件添加到本地版本库
 git commit -m "comments"
+# 将本地版本库的资源推送到远程服务器
 git push -u origin master
 ```
