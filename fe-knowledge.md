@@ -2,9 +2,9 @@
 
 > 前端学习过程中涉及到的相关阅读资料、开发工具、入门tutorial、技术资讯等精华资源的汇总。
 
-## 前言
+## 1. 前言
 
-### 基本介绍
+### 1.1 基本介绍
 
 1. [Brendan Eich: JavaScript at 20](http://brendaneich.github.io/ModernWeb.tw-2015/)
 2. Quora: [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
@@ -14,7 +14,7 @@
 6. [JavaScript之路（包含大量学习资源）](http://jstherightway.org/)
 7. [前端面试题汇总](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
-### 代码编辑器和IDE
+### 1.2 代码编辑器和IDE
 
 1. [Sublime Text 3](http://www.sublimetext.com/)
 2. [WebStorm](https://www.jetbrains.com/webstorm/)
@@ -22,7 +22,7 @@
 4. [Brackets](http://brackets.io/) [Free]
 5. [Atom](https://atom.io/) [Free]
 
-### 辅助工具
+### 1.3 辅助工具
 
 1. [Sublime常用配置技巧与常用插件](http://wwsun.me/posts/sublime-usage.html)
 2. [Web前端编程规范](https://github.com/bendc/frontend-guidelines) 或 [AlloyTeam前端编程规范](http://materliu.github.io/code-guide/)
@@ -31,29 +31,28 @@
 5. [跨浏览器测试工具modern.IE](https://www.modern.ie/zh-cn)
 6. [BootCDN: 稳定、快速、免费的开源项目 CDN 服务](http://www.bootcdn.cn/)
 
-### 社区和博客
+### 1.4 社区和博客
 
 - [MDN](https://developer.mozilla.org/zh-CN/)
-- [w3ctech](http://www.w3ctech.com/)
-- 前端博客：[Scotch.io](https://scotch.io/)
 - [github开源社区](https://github.com/)
 - [segmentfault问答社区](http://segmentfault.com/)
 - [stackoverflow国外问答社区](http://stackoverflow.com/)
 - [div.io](http://div.io/)
 - [前端外刊评论](http://zhuanlan.zhihu.com/FrontendMagazine)
+- [w3ctech](http://www.w3ctech.com/)
 - [前端乱炖社区](http://www.html-js.com/)
 - [百度FEX团队技术博客](http://fex.baidu.com/)
 - [淘宝UED](http://ued.taobao.org/blog/)
 
-## 第一阶段 HTML\CSS\Git Basic
+## 2. 第一阶段：HTML\CSS\Git Basic
 
-### Reading:
-1. 知乎：[Web开发基础指南](http://www.zhihu.com/question/22689579)
-3. 入门图书：Head First HTML&CSS, 2nd
+### 推荐阅读:
+1. [Web开发基础指南](http://www.zhihu.com/question/22689579)
+3. [CSS网页设计标准教程](http://product.dangdang.com/20546737.html)
 4. [Learn to Code HTML&CSS](http://learn.shayhowe.com/html-css/)
 4. [HTML/CSS Performance & Organization](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
-### Git
+### 2.1 Git
 
 1. [Git - the simple guide](http://rogerdudler.github.io/git-guide/index.zh.html)
 2. [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
@@ -66,7 +65,7 @@
 6. [Github Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial)
 5. [25个Git进阶技巧](http://linux.cn/article-5418-weibo.html)
 
-### HTML:
+### 2.2 HTML:
 
 1. [HTML入门：教你做一个简单的网站](https://www.thinkful.com/learn/html-tutorial-for-beginners)
 1. MDN: [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Introduction)
@@ -75,7 +74,7 @@
 4. [20 HTML Elements for Better Text Semantics](http://www.sitepoint.com/20-html-elements-better-text-semantics/)
 5. [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
 
-### CSS & Layout:
+### 2.3 CSS & Layout:
 
 1. CSS入门：https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started
 2. 学习CSS布局：http://zh.learnlayout.com/no-layout.html
@@ -94,21 +93,21 @@
 10. [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 
-## 第二阶段 JavaScript Basic
+## 3. 第二阶段：JavaScript Basic
 
-### Reading:
+### 推荐阅读:
 
-1. 推荐阅读：Head First HTML5 Programming
-2. 推荐阅读：JavaScript高级程序设计，第3版
+1. Head First HTML5 Programming
+2. JavaScript高级程序设计，第3版
 3. [Dive Into HTML5](http://diveintohtml5.info/)
 4. [MDN: JavaScript Wiki](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 5. [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
-### HTML5
+### 3.1 HTML5
 
 1. Tutorial: [Native HTML5 Drag and Drop API](http://www.html5rocks.com/en/tutorials/dnd/basics/)
 
-### JavaScript
+### 3.2 JavaScript
 
 1. MDN: [JavaScript入门](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 2. [JavaScript性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
@@ -122,14 +121,14 @@
 12. [Simple Ajax Auto-Complete Example](http://www.wilycode.com/simple-ajax-auto-complete-example/)
 13. Tutorial: [使用原生JavaScript从0开始开发一个轮播图](http://g-liu.com/blog/2013/08/tutorial-basic-carouselslideshow-with-javascript/)
 
-### Node.js
+### 3.3 Node.js
 
 1. scotch.io: [Build a RESTful API Using Node and Express 4](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 2. [Express跨域问题解决方案](http://blog.csdn.net/marujunyy/article/details/8852017)
 3. 朴灵：[Node编码规范](http://www.ituring.com.cn/article/197990)
 
 
-### Questions
+### 3.4 常见提问
 
 3. 为什么JavaScript中0.1+0.2不等于0.3？[参看浮点数计算的基本问题](http://floating-point-gui.de/basic/)。
 3. stackoverflow: [most efficient way to clone an object](http://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-clone-an-object)
@@ -138,9 +137,9 @@
 6. stackoverflow: [creating the checkbox daynamically using javascript](http://stackoverflow.com/questions/866239/creating-the-checkbox-dynamically-using-javascript)
 11. stackoverflow: [How to iterate JSON array in JavaScript](http://stackoverflow.com/questions/15496508/how-to-iterate-json-array-in-javascript)
 
-## 第三阶段 JavaScript Advanced & Basic Web App Development
+## 4. 第三阶段：JavaScript Advanced & Basic Web App Development
 
-### Reading
+### 4.1 推荐阅读
 
 1. JavaScript高级程序设计，第3版
 2. [JavaScript: The Good Parts](http://proquest.safaribooksonline.com/book/programming/javascript/9780596517748)
@@ -153,7 +152,7 @@
 5. Effective JavaScript
 6. [重新介绍JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
-### Debug
+### 4.2 调试
 
 1. [Debugging JavaScript](https://developer.chrome.com/devtools/docs/javascript-debugging)
 2. [Debugging Asynchronous JavaScript with Chrome DevTools](http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/)
@@ -161,7 +160,7 @@
 4. [Evaluating Network Performance](https://developer.chrome.com/devtools/docs/network)
 2. [Enhance your javascript debugging with Cross-Browser Source Maps](http://www.sitepoint.com/enhance-your-javascript-debugging-with-cross-browser-source-maps/)
 
-### JavaScript
+### 4.3 JavaScript
 
 1. [5个经典的JavaScript面试题](http://wwsun.me/posts/javascript-interview.html)
 2. [鸟哥：理解JavaScript的作用域](http://www.laruence.com/2009/05/28/863.html)
@@ -175,7 +174,7 @@
 10. stackoverflow: [Copying array by value in JavaScript](http://stackoverflow.com/questions/7486085/copying-array-by-value-in-javascript)
 
 
-### JavaScript OOP
+### 4.4 JavaScript面向对象编程
 
 1. [Javascript 面向对象编程基础入门](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
 2. 推荐阅读：JavaScript高级程序设计，第6章，面向对象程序设计
@@ -185,29 +184,29 @@
 5. [this关键字详解](http://www.cnblogs.com/justany/archive/2012/11/01/the_keyword_this_in_javascript.html)
 6. [深入浅出JavaScript中的this关键字](http://www.ibm.com/developerworks/cn/web/1207_wangqf_jsthis/index.html)
 
-### Design Patterns
+### 4.5 设计模式
 
 1. [常用的JavaScript设计模式](http://blog.jobbole.com/29454/)
 2. [JavaScript设计模式深入分析](http://developer.51cto.com/art/201109/288650.htm)
 3. 图书：[Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 4. [上面这本书的中文版](http://www.oschina.net/translate/learning-javascript-design-patterns)
 
-### HTML & CSS
+### 4.6 HTML & CSS
 
 1. [Using Links to Create Navigation Menus](http://webdesign.about.com/od/css/a/aa082304.htm)
 2. Stackoverflow: [CSS3 Viewport-Percentage Length](http://stackoverflow.com/questions/1575141/make-div-100-height-of-browser-window)
 3. Tutorial: [Horizontal lists](http://css.maxdesign.com.au/listutorial/horizontal_master.htm)
 4. Tutorial: [Creating a modal window with HTML5 & CSS3](http://www.webdesignerdepot.com/2012/10/creating-a-modal-window-with-html5-and-css3/)
 
-### Documentation
+### 4.7 文档
 
 1. [MDN JavaScript全部页面索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 2. [MDN JavaScript全部方法索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Methods_Index)
 3. [MDN JavaScript全部属性索引](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Properties_Index)
 
-## 第四阶段 Mobile and Engineering
+## 5. 第四阶段：Mobile and Engineering
 
-### Mobile Development
+### 5.1 移动端开发
 
 1. Book: Head First Mobile Web
 1. [Mobile First Design: Why It’s Great and Why It Sucks](http://designshack.net/articles/css/mobilefirst/)
@@ -223,14 +222,14 @@
 9. [Webstorm: Getting started with hybrid mobile app development](https://confluence.jetbrains.com/display/WI/Getting+started+with+hybrid+mobile+app+development)
 10. [Browser-Sync：响应式Web开发调试利器](http://www.imooc.com/wenda/detail/265741)
 
-### CSS pre-process and post-process
+### 5.2 CSS预处理器与CSS后处理器
 
 1. [再谈 CSS 预处理器](http://efe.baidu.com/blog/revisiting-css-preprocessors/)
 2. [CSS 预处理器与 CSS 后处理器](http://zhaolei.info/2014/01/04/css-preprocessor-and-postprocessor/)
 3. [SASS Basics](http://sass-lang.com/guide)
 4. [The Sass way](http://thesassway.com/)
 
-### Module
+### 5.3 模块化开发
 
 1. [阮一峰：Javascript模块化编程（一）：模块的写法](http://www.ruanyifeng.com/blog/2012/10/javascript_module.html)
 2. [详解JavaScript模块化开发](http://segmentfault.com/a/1190000000733959)
@@ -250,7 +249,7 @@
 9. [百度ESL (Enterprise Standard Loader)](https://github.com/ecomfe/esl)
 10. [浏览器加载CommonJS模块的原理与实现](http://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html)
 
-### Front-end Engineering
+### 5.4 前端工程化
 
 1. [前端工程与模块化框架](http://div.io/topic/439)
 2. [手机百度前端工程化之路](http://mweb.baidu.com/p/baidusearch-front-end-road.html)
@@ -259,7 +258,7 @@
 5. [Grunt教程——初涉Grunt](http://www.w3cplus.com/tools/grunt-tutorial-start-grunt.html)
 6. [Gulp入门指南](http://www.open-open.com/lib/view/open1417068223049.html)
 
-### Website Performance
+### 5.5 网站性能优化
 
 1. [大型网站的灵魂——性能](http://www.cnblogs.com/leefreeman/p/3998757.html)
 2. [Google: Web性能最佳实践](https://developers.google.com/speed/docs/insights/rules)
@@ -271,15 +270,15 @@
 4. [CSS Sprite原理、优缺点及使用](http://www.cnblogs.com/mofish/archive/2010/10/12/1849062.html)
 5. [伯乐在线：编写高效的 CSS 选择器](http://web.jobbole.com/35339/)
 
-### Performance Debug Tools
+### 5.6 前端性能调试工具
 
 1. [Chrome developer tools](https://developer.chrome.com/devtools)
 2. [Web Page Test](http://www.webpagetest.org/)
 3. [Windows Performance Toolkit Overview](https://msdn.microsoft.com/enus/library/windows/hardware/hh162981.aspx)
 
-## Advanced Topic
+## 6. 进阶建议
 
-### Helpers
+### 6.1 工具汇总
 
 1. 文件精简工具：[UglifyJS](https://github.com/mishoo/UglifyJS2)
 2. 构建工具：[Grunt: The JavaScript Task Runner](http://gruntjs.com/)
@@ -292,16 +291,16 @@
 8. [Yeoman: 帮你快速启动新项目](http://yeoman.io/)
 9. [Travis CI：持续集成工具](https://travis-ci.org/)
 
-### JavaScript MVC Frameworks
+### 6.2 JS框架
 
 1. [Angular.js](https://angularjs.org/) & [Angular2](https://angular.io/)
 2. [React.js](https://facebook.github.io/react/) & [React Native](https://facebook.github.io/react-native/)
 3. Tutorial: [AngularJS in 30 minutes](http://www.revillweb.com/tutorials/angularjs-in-30-minutes-angularjs-tutorial/)
 4. [AngularJS风格指南](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
 
-### CSS Frameworks 
+### 6.3 UI框架
 
-1. [Bootstrap 3](http://v3.bootcss.com/css/)
+1. [Bootstrap 3 & Bootstrap 4](http://v3.bootcss.com/css/)
 2. [Semantic UI](http://semantic-ui.com/)
 3. [Materialize：Material design](http://materializecss.com/)
 2. [Top 5 Material Design Frameworks to Use in 2015](http://www.sitepoint.com/top-5-material-design-frameworks-use-2015)
