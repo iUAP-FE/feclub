@@ -12,16 +12,16 @@ PATH = C:\Program Files\nodejs;
 - 在nodejs的安装目录下新增node_global和node_cache目录，并使用npm配置：
 
 ```
- npm config set prefix "C:\Program Files\nodejs\node_global" 
- npm config set cache "C:\Program Files\nodejs\node_cache"
- ```
+npm config set prefix "C:\Program Files\nodejs\node_global" 
+npm config set cache "C:\Program Files\nodejs\node_cache"
+```
 
- - 再次配置环境变量
+- 再次配置环境变量
 
- ```
+```
 PATH = C:\Program Files\nodejs\node_global;
 NODE_PATH = C:\Program Files\nodejs\node_global\node_modules;
- ```
+```
 
 
 ## Git（以windows为例）
@@ -34,6 +34,17 @@ NODE_PATH = C:\Program Files\nodejs\node_global\node_modules;
 ``` 
 git config --global user.name "GuoYongfeng"
 git config --global user.email "guoyff@yonyou.com"
+```
+
+- 简单别名配置
+
+```
+git config --global alias.st status
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.br branch
+....
+
 ```
 
 - 生成ssh key
