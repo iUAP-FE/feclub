@@ -19,6 +19,7 @@ PATH = C:\Program Files\nodejs;
  - 再次配置环境变量
 
  ```
+PATH = C:\Program Files\nodejs\node_global;
 NODE_PATH = C:\Program Files\nodejs\node_global\node_modules;
  ```
 
