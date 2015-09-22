@@ -1,6 +1,6 @@
 # 前端资源整理
 
-> 转自知乎
+> 整理自知乎
 
 ## 资源教程
 
@@ -69,8 +69,6 @@
     - [javascripting](http://www.javascripting.com/)
     - [各种流行库搜索](http://microjs.com/)
 
-
-
 ###2. jQuery
 
 * [jQuery API 中文文档](http://jquery.bootcss.com/)
@@ -123,7 +121,6 @@
 - [bouncejs 触摸库](http://bouncejs.com/)
 - [css3 按钮动画](http://fian.my.id/Waves/)
 - [animate.css](http://daneden.github.io/animate.css/)
-- []()
 
 ###7. Angularjs
 
@@ -165,7 +162,6 @@
 - [React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)
 - [webpack](https://github.com/webpack/webpack)
 - [React Native 中文版](http://wiki.jikexueyuan.com/project/react-native/)
-- []()
 
 ###9. 移动端API
 
@@ -191,7 +187,6 @@
 - [avalonjs](http://avalonjs.github.io/)
 - [Avalon新一代UI库： OniUI](http://ued.qunar.com/oniui/index.html)
 - [avalon.oniui-基于avalon的组件库](https://github.com/RubyLouvre/avalon.oniui)
-- []()
 
 ###11. Requriejs
 
@@ -297,7 +292,6 @@
 - [Vue.js](http://cn.vuejs.org/)
 - [Vue 入门指南](http://www.cnblogs.com/aaronjs/p/3660102.html)
 - [Vue.js 的一些资源索引](http://segmentfault.com/a/1190000000411057)
-- []()
 
 ###21. 正则
 
@@ -372,7 +366,6 @@
     - [常见排序算法-js版本](https://github.com/hechangmin/jssort)
     - [JavaScript 算法与数据结构 精华集](https://github.com/lightningtgc/JavaScript-Algorithms)
     - [面试常考算法题精讲](http://www.nowcoder.com/live/courses)
-    - []()
 
 3. 移动端
     
@@ -387,8 +380,8 @@
 - [HTML5 有哪些让你惊艳的 demo？](http://www.zhihu.com/question/24398907)
 
 ###4. CSS
+
 - [browserhacks](http://browserhacks.com/)
-- []()
 
 ###5. jQuery
 
@@ -399,7 +392,6 @@
     - [extjs](https://www.sencha.com/products/extjs/)
     - [ext4英文api](http://docs.sencha.com/extjs/4.0.7/)
     - [ext4中文api](http://extjs-doc-cn.github.io/ext4api/)
-    - []()
     
 2. EasyUI
 
@@ -553,7 +545,6 @@
 - [图片裁剪](http://elemefe.github.io/image-cropper/)
 - [图片裁剪-shearphoto](http://www.shearphoto.com/)
 - [jQuery图片处理](http://www.oschina.net/project/tag/284/jquery-image-tools?lang=0&os=0&sort=view&p=2)
-- []()
 
 ###14. 模拟select
 
@@ -561,7 +552,6 @@
 - [flexselect](https://github.com/rmm5t/jquery-flexselect)
 - [双select](http://loudev.com/)
 - [select2](http://select2.github.io/)
-- []()
 
 ###15. 取色插件
 
@@ -569,12 +559,10 @@
 - [jquery color](https://github.com/jquery/jquery-color/)
 - [取色插件集合](http://www.oschina.net/project/tag/287/color-picker)
 - [farbtastic 圆环＋正方形](https://github.com/mattfarina/farbtastic)
-- []()
 
 ###16. 城市联动
 
 - [jquery.cityselect.js基于jQuery+JSON的省市或自定义联动效果](http://www.ijquery.cn/?p=360)
-- []()
 
 ###17. 剪贴板
 
@@ -601,7 +589,6 @@
 - [sql 在线编辑 - sqlfiddle](http://sqlfiddle.com/)
 - [mozilla 在线编辑器](https://thimble.mozilla.org)
 
-
 ## Nodejs
 
 - [nodejs 篇幅比较巨大](http://liuqing.pw/)
@@ -626,69 +613,67 @@
 
 1. 常规优化
 
-    - [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
-    - [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
-    - [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
-    - [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
-    - [复杂应用的 CSS 性能分析和优化建议](http://www.orzpoint.com/profiling-css-and-optimization-notes/)
-    - [张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)
-    - [前端性能监控总结](http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html)
-    - [网站性能优化之CSS无图片技术](http://udc.weibo.com/2013/05/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8Bcss%E6%97%A0%E5%9B%BE%E7%89%87%E6%8A%80%E6%9C%AF/)
-    - [web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)
-    - [前端技术：网站性能优化之CSS无图片技术](http://my.eoe.cn/tuwandou/archive/4544.html)
-    - [浏览器的加载与页面性能优化](http://www.baiduux.com/blog/2011/02/15/browser-loading/)
-    - [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
-    - [Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
-    - [html优化](http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/)
-    - [99css——性能](http://www.99css.com/archives/tag/%E6%80%A7%E8%83%BD)
-    - [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
-    - [YSLOW中文介绍](http://www.cnblogs.com/yslow/)
-    - [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
-    - [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
-    - [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
-    - [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
-    - [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
-    - [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
-    - [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/)
-    - [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
-    - [加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)
-    - [前端性能的测试与优化](http://mzhou.me/article/95310/)
-    - [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/)
-    - [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt/)
-    - [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
-    - [网站性能优化工具大全](http://www.qianduan.net/website-performance-optimization-tool.html)
-    - [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html/)
-    - [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css/)
-    - [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
-    - [AlloyTeam——前端优化](http://www.alloyteam.com/category/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
-    - [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
-    - [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
-    - [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
-    - [前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
-    - [HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369/)
-    - [Yslow](http://uicss.cn/yslow/#more-12319)
-    - [Essential Web Performance Metrics — A Primer, Part 1](http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1/)
-    - [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/)
-    - [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
-    - [Improving Site Performance](http://joelglovier.com/improving-site-performance/)
-    - [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
-    - [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
-    - [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
-    - [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
-    - []()
+- [Javascript高性能动画与页面渲染](http://www.infoq.com/cn/articles/javascript-high-performance-animation-and-page-rendering)
+- [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
+- [5173首页前端性能优化实践](http://ued.5173.com/?p=1731)
+- [给网页设计师和前端开发者看的前端性能优化](http://www.uisdc.com/front-end-performance-for-web-designers-and-front-end-developers)
+- [复杂应用的 CSS 性能分析和优化建议](http://www.orzpoint.com/profiling-css-and-optimization-notes/)
+- [张鑫旭——前端性能](http://www.zhangxinxu.com/wordpress/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD/)
+- [前端性能监控总结](http://www.xiaoqiang.org/javascript/font-end-performance-monitor.html)
+- [网站性能优化之CSS无图片技术](http://udc.weibo.com/2013/05/%E7%BD%91%E7%AB%99%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B9%8Bcss%E6%97%A0%E5%9B%BE%E7%89%87%E6%8A%80%E6%9C%AF/)
+- [web前端性能优化进阶路](http://www.aliued.cn/2013/01/20/web%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6%E8%B7%AF.html)
+- [前端技术：网站性能优化之CSS无图片技术](http://my.eoe.cn/tuwandou/archive/4544.html)
+- [浏览器的加载与页面性能优化](http://www.baiduux.com/blog/2011/02/15/browser-loading/)
+- [页面加载中的图片性能优化](http://www.w3ctech.com/p/1503)
+- [Hey——前端性能](http://www.feelcss.com/tag/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD)
+- [html优化](http://www.baiduux.com/blog/2010/03/15/html%E4%BC%98%E5%8C%96-2/)
+- [99css——性能](http://www.99css.com/archives/tag/%E6%80%A7%E8%83%BD)
+- [Yslow——性能优化](http://www.yslow.net/category.php?cid=20)
+- [YSLOW中文介绍](http://www.cnblogs.com/yslow/)
+- [转一篇Yahoo关于网站性能优化的文章，兼谈本站要做的优化](http://www.360ito.com/article/40.html)
+- [Yahoo!团队实践分享：网站性能](http://www.360doc.com/content/10/0928/09/2588264_56971287.shtml)
+- [网站性能优化指南：什么使我们的网站变慢？](http://blog.jiasule.com/i/153)
+- [网站性能优化实践，减少加载时间，提高用户体验](http://www.powereasy.net/helpyou/knowledge/ecommerce/9593.html)
+- [浅谈网站性能优化 前端篇](http://www.umtry.com/archives/747.html)
+- [前端重构实践之如何对网站性能优化？](http://www.adinnet.cn/blog/designview/2012-7-12/678.html)
+- [前端性能优化：使用媒体查询加载指定大小的背景图片](http://www.gbin1.com/technology/javascript/20130708-front-end-performance-optimization-9/)
+- [网站性能系列博文](http://www.mykuer.com/post/factors-that-affect-the-speed-of-web-site-open.html)
+- [加载，不只是少一点点](http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201109/41355.shtml)
+- [前端性能的测试与优化](http://mzhou.me/article/95310/)
+- [分享网页加载速度优化的一些技巧？](http://www.gbin1.com/technology/html/20130217-tips-for-speed-up-page-loading/)
+- [页面加载中的图片性能优化](http://www.f2es.com/images-bytes-opt/)
+- [web前端优化(基于Yslow)](http://www.tcreator.info/webSchool/website/Front-end-Opt-Yslow.html)
+- [网站性能优化工具大全](http://www.qianduan.net/website-performance-optimization-tool.html)
+- [【高性能前端1】高性能HTML](http://www.alloyteam.com/2012/10/high-performance-html/)
+- [【高性能前端2】高性能CSS](http://www.alloyteam.com/2012/10/high-performance-css/)
+- [由12306谈谈网站前端性能和后端性能优化](http://coolshell.cn/articles/6470.html)
+- [AlloyTeam——前端优化](http://www.alloyteam.com/category/webfrontend/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/)
+- [毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/3248695.html)
+- [网站性能工具Yslow的使用方法](http://blog.sina.com.cn/s/blog_6e9d2e0701017kvu.html)
+- [前端工程与性能优化（上）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)
+- [前端工程与性能优化（下）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
+- [HTTPS连接的前几毫秒发生了什么](http://blog.jobbole.com/48369/)
+- [Yslow](http://uicss.cn/yslow/#more-12319)
+- [Essential Web Performance Metrics — A Primer, Part 1](http://blog.smartbear.com/web-performance/essential-web-performance-metrics-a-primer-part-1/)
+- [Essential Web Performance Metrics — Part 2](http://blog.smartbear.com/performance/essential-web-performance-metrics-part-2/)
+- [YUISlide,针对移动设备的动画性能优化](http://jayli.github.io/blog/data/2011/12/23/yuislide.html)
+- [Improving Site Performance](http://joelglovier.com/improving-site-performance/)
+- [让网站提速的最佳前端实践](http://blog.segmentfault.com/laopopo/1190000000367899)
+- [Why Website Speed is Important](http://sixrevisions.com/web-development/why-website-speed-is-important/)
+- [Need for Speed – How to Improve your Website Performance](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+- [阿里无线前端性能优化指南 (Pt.1 加载期优化) ](https://github.com/amfe/article/issues/1)
 
 2. 优化工具
 
-    - [JavaScript 性能分析新工具 OneProfile](http://www.html-js.com/article/3083)
-    - [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)
+- [JavaScript 性能分析新工具 OneProfile](http://www.html-js.com/article/3083)
+- [JavaScript 堆内存分析新工具 OneHeap](http://www.html-js.com/article/3091)
 
 3. 在线工具
 
-    - [google在线工具](https://developers.google.com/speed/pagespeed/insights/)
-    - [阿里测](http://www.alibench.com/)
-    - [阿里-免费测试服务](http://itest.aliyun.com/)
-    - [js性能测试](http://jsperf.com/)
-    - []()
+- [google在线工具](https://developers.google.com/speed/pagespeed/insights/)
+- [阿里测](http://www.alibench.com/)
+- [阿里-免费测试服务](http://itest.aliyun.com/)
+- [js性能测试](http://jsperf.com/)
     
 ##前端架构
 
@@ -697,7 +682,6 @@
 - [如何成为前端架构师](http://www.zhihu.com/question/24092572)
 - [关于前端架构-张克军](http://hikejun.com/sharing/2010webrebuild/?file=fe-infrastructure.html)
 - [百度腾讯offer比较（腾讯游戏VS百度基础架构）](http://www.zhihu.com/question/25583350)
-- []()
 
 
 ##个人作品
@@ -753,7 +737,6 @@
 - [[合肥-M.J] - Mexam 移动端在线做题组](https://github.com/webjyh/Mexam)
 - [[北京-苏瑞] - dancer小人](http://letyougo.github.io/dancer/)
 - [[上海-玄沐]- 个人网站](http://k.swao.cn/js/)
-- []()
 
 ##简历模板
 
@@ -767,7 +750,6 @@
 - [简历池](http://www.mojianli.com/resume/view)
 - [haorooms博客](http://www.haorooms.com/about)
 - [Justin Young](http://cv.youngdze.com/)
-- []()
 
 ##面试题
 
@@ -796,7 +778,6 @@
 - [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [如何面试前端工程师](http://www.zhihu.com/question/19568008)
-- []()
 
 #iconfont
 
@@ -807,7 +788,6 @@
 - [zhangxinxu-icommon](http://www.zhangxinxu.com/wordpress/?s=icomoon)
 - [icommon](http://icomoon.io/app/)
 - [用字体在网页中画ICON图标(推荐教程)](http://imooc.com/learn/243)
-- []()
 
 ##开发工具类
 
@@ -825,7 +805,6 @@
         - [Fiddler调式使用知多少(一)深入研究](http://www.cnblogs.com/tugenhua0707/p/4623317.html)
         - [微信fiddle](http://www.cnblogs.com/strick/p/4570006.html)
         - [微信fiddle](http://gaoboy.com/article/26.html)
-        - []()
     
     2. Chrome
         - [Google Chrome 官方](https://developer.chrome.com/devtools)
@@ -862,7 +841,6 @@
         - [console.log 命令详解](http://www.cnblogs.com/ctriphire/p/4116207.html)
         - [Firebug入门指南](http://www.ruanyifeng.com/blog/2008/06/firebug_tutorial.html)
         - [Firebug控制台详解](http://www.ruanyifeng.com/blog/2011/03/firebug_console_tutorial.html)
-        - []()
     
     4. 移动,微信调试
         - [浏览器端调试安卓](https://openstf.github.io/)
@@ -879,13 +857,11 @@
         - [liveReload](http://livereload.com/)
         - [f5](http://getf5.com/)
         - [File Watchers](http://geek100.com/2608/)
-        - []()
     
     6. PPT
         - [PPT](https://github.com/ksky521/nodePPT)
         - [reveal](https://github.com/hakimel/reveal.js/)
         - [slippy](https://github.com/Seldaek/slippy)
-        - []()
     
 3. loading img
 
@@ -907,7 +883,6 @@
 - [网址导航](http://www.haourl.cn/)
 - [前端开发仓库](http://code.ciaoca.com/) 众多效果的收集地
 - [前端资源导航](https://github.com/jnoodle/f2e-collect)
-- []()
 
 ##常用CDN
 
